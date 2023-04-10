@@ -1,5 +1,5 @@
 ### Hi there 👋
-##My Name is Adrian, I'm a animator and modeler in 2D and 3D, currently learning programing in C# in Unity to expand my knowledge for the developing games world.
+## My Name is Adrian, I'm a animator and modeler in 2D and 3D, currently learning programing in C# in Unity to expand my knowledge for the developing games world.
 
 - 😄 Pronouns: She/He.
 - 🔭 I’m currently working on some little mini-games made of my own in Unity to learn more of programing.
