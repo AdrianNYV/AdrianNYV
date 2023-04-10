@@ -3,7 +3,7 @@
 
 - 😄 Pronouns: She/He.
 - 🔭 I’m currently working on some little mini-games made of my own in Unity to learn more of programing.
-- - 🌱 I’m currently learning programing, and expanding my modelation and animation knowledge in 3D.
+- 🌱 I’m currently learning programing, and expanding my modelation and animation knowledge in 3D.
 - 📫 How to contact me: adriannyv@gmail.com
 - ⚡ Fun fact: I'm love drawning and I'm a little bit of a lover of the world of paleontology.
 
